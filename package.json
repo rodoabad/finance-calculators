@@ -1,7 +1,7 @@
 {
   "name": "finance-calculators",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of finance calculators written in AngularJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
